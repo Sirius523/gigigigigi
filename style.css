@@ -115,7 +115,7 @@ section.panel {
 section#first-page {
     height: 100vh;
     color: #fff;
-    background-image: url("../img/first-page-bg.png");
+    background-image: url("img/first-page-bg.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -200,7 +200,7 @@ section#about-us {
     color: #fff;
     margin-bottom: 100px;
     height: 150vh;
-    background: url("../img/about-us-bg.png") center no-repeat;
+    background: url("img/about-us-bg.png") center no-repeat;
     background-size: 100% 100%;
 }
 
@@ -430,7 +430,7 @@ section#useful-info .content .item .title {
 section#sub {
     height: 100vh;
     margin-bottom: 15vh;
-    background: url(/img/sub-bg.png) center no-repeat;
+    background: url(img/sub-bg.png) center no-repeat;
     background-size: 100% 100%;
 }
 
